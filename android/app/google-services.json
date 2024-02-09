@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350559422755",
+    "project_id": "ecommercemad-1c610",
+    "storage_bucket": "ecommercemad-1c610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350559422755:android:55cbe4f535e91a1c9ce496",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBivtm1cSmtBWzocFrw-lGrZZm_HHrG55c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350559422755:android:c432f9be274c28fd9ce496",
+        "android_client_info": {
+          "package_name": "com.example.radiant_retail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBivtm1cSmtBWzocFrw-lGrZZm_HHrG55c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
