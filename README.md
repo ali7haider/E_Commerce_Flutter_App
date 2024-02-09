@@ -17,6 +17,23 @@ An e-commerce application built in Flutter and Dart.
     Admin Should be able to manage the account and can view its account information.
   - **Orders History:**
     Admin can view all order history.
+- **User Portal**
+  - **Login and Authentication:**
+    Users can log in to the application and will be redirected to the dashboard.
+  - **Sign Up:**
+    Users can sign up for the application by providing their personal information.
+  - **View Products:**
+    Users can view all products and products of specific categories.
+  - **Buy Product:**
+    Users can add products to the cart.
+  - **Add to Cart:**
+    Admin Should be able to manage the account and can view its account information.
+  - **Buy Cart Products:**
+    Users can buy all cart products which saves in shared preference.
+  - **Orders History:**
+    Users can view its order history.
+  - **Manage Account:**
+    Users can manage and view their account information.
 
 # How to Run the Project Locally
 - Before running the application locally, make sure you have the following installed:
