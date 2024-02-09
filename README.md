@@ -2,20 +2,20 @@
 An e-commerce application built in Flutter and Dart. 
 # Features
 - **Admin Portal**
-  - **Login and Authentication**
+  - **Login and Authentication: **
     By writing the correct credentials of Admin, Admin can log in to the application and will
     redirect to dashboard
-  - **Dashboard**
+  - **Dashboard: **
     On the dashboard, the Admin will be able to view the status of how many users registered, the
     total product, and the total orders placed.
-  - **Home Page**
+  - **Home Page: **
     Admin should be able to open a home page where all products show with the opening products of
     the specific category.
-  - **Manage Products**
+  - **Manage Products: **
     Admin should also be able to manage the products doing all CRUD operations.
-  - **Manage Account**
+  - **Manage Account: **
     Admin Should be able to manage the account and can view its account information.
-  - **Orders History**
+  - **Orders History:**
     Admin can view all order history.
 
 # How to Run the Project Locally
