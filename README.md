@@ -37,12 +37,21 @@ An e-commerce application built in Flutter and Dart.
 
 # How to Run the Project Locally
 - Before running the application locally, make sure you have the following installed:
-  - Node.js
-  - npm (Node Package Manager)
+  - Flutter SDK
+  - Flutter Plugin for IDE
 To run the project locally, follow these steps:
 - Clone the repository to your local machine.
-  `git clone https://github.com/ali7haider/Movie_DB_ReactAPP_AJAX_Usage`
-- Open the project directory and run `npm start` in the cmd.
+  `git clone https://github.com/ali7haider/E_Commerce_Flutter_App`
+- Navigate to the Project Directory.
+  `cd E_Commerce_Flutter_App`
+- Install Dependencies: Use the flutter pub get command to install all the required dependencies for the project.
+  `flutter pub get`
+- Run the App: After installing the dependencies, you can run the Flutter app using the Flutter Run command.
+  `flutter run`
+This will build and run the Flutter app on the connected device (either a physical device or emulator).
+
+
+
 - The app will run on the local host.
 # Performance Measure
 Using AJAX (Asynchronous JavaScript and XML) for fetching data from a movie database can significantly improve the performance and responsiveness of your web application. AJAX allows you to make asynchronous requests to the server without reloading the entire page, enabling a smoother user experience.
