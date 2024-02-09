@@ -48,27 +48,9 @@ To run the project locally, follow these steps:
   `flutter pub get`
 - Run the App: After installing the dependencies, you can run the Flutter app using the Flutter Run command.
   `flutter run`
-This will build and run the Flutter app on the connected device (either a physical device or emulator).
+- This will build and run the Flutter app on the connected device (either a physical device or emulator).
 
 
-
-- The app will run on the local host.
-# Performance Measure
-Using AJAX (Asynchronous JavaScript and XML) for fetching data from a movie database can significantly improve the performance and responsiveness of your web application. AJAX allows you to make asynchronous requests to the server without reloading the entire page, enabling a smoother user experience.
-In an app that retrieves data from a movie database, AJAX can be utilized for various tasks such as fetching movie details, searching for specific movies, loading lists of movies, and more. Here's how AJAX enhances performance and user experience.
-# Challenges Faced and Solutions
-- **Challenges:**
-  - Understanding what is AJAX.
-  - How to use AJAX in the application
-- **Solutions:**
-  - To Understand AJAX, I have used Google, Chatgpt, and other online platforms.
-  - I have also used online tutorials.
-# References and Resources
-- [Server Side](https://www.theserverside.com/definition/Ajax-Asynchronous-JavaScript-and-XML)
-- Youtube
-- Chatgpt
-# Live Website link
-  https://ajaxmoviedb.netlify.app/
 
     
 
